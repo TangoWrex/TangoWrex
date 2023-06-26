@@ -1,4 +1,7 @@
-![Codewars](https://github.r2v.ch/codewars?user=mttruett)
+I am a Python and C developer with 2+ years of experience. I am currently working on an open source Project called "Aegis". 
+
+
+![Codewars](https://github.r2v.ch/codewars?user=mttruett&stroke=%23BB432C)
 
 <!--
 **TangoWrex/TangoWrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
