@@ -1,4 +1,6 @@
-I am a Python and C developer with 2+ years of experience. I am currently working on an open source Project called "Aegis". 
+I am a Python and C developer with 2+ years of experience. I am currently working on an open source project called "Aegis".
+Aegis is a multithreaded program which will connect sensors remotely. It currently utilizes flask for the GUI. The network is set up prior to setting out sensors for now. 
+The user will be able to select from prebuilt functions. The client will leverage SDRs and commercial off the shelf hardware to get RF data to send back to the server. It feeds GPS data. Future iterations will provide the server a gui with a map showing each sensor
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=mttruett&stroke=%23BB432C)
