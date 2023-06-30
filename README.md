@@ -15,10 +15,6 @@ GPS Data Integration: By seamlessly incorporating GPS data, Aegis enriches the s
 Next Steps
 As I continue to refine the Aegis project, my focus is on expanding its capabilities and enhancing user experience. One of the exciting upcoming features is the development of a server-side graphical user interface (GUI) that will visually represent each sensor on a map, providing users with a comprehensive overview of their network.
 
-I am committed to delivering a reliable and efficient solution through continuous development and innovation.
-
-
-![Codewars](https://github.r2v.ch/codewars?user=mttruett&stroke=%23BB432C)
 
 <!--
 **TangoWrex/TangoWrex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
