@@ -1,4 +1,4 @@
-Hello! I am a Python and C developer with over 2 years of experience, passionate about crafting innovative software solutions. I am currently actively working on a project called "Aegis."
+Hello!  I'm a skilled software developer with proficiency in Python and C, with two years of practical experience. Currently, I'm actively working on a project named "Aegis,"
 
 Aegis Project Overview
 "Aegis" is a dynamic and multithreaded program designed to establish remote connections with sensors. Leveraging my expertise in Python and C, I am developing this project to provide a seamless and efficient solution for sensor connectivity.
