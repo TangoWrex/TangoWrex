@@ -1,19 +1,16 @@
-Hello!  I'm a skilled software developer with proficiency in Python and C, with two years of practical experience. Currently, I'm actively working on a project named "Aegis,"
+Hi, I’m a software developer with 4 years of experience in Python, C, secure software development, and system testing. 
 
-Aegis Project Overview
-"Aegis" is a dynamic and multithreaded program designed to establish remote connections with sensors. Leveraging my expertise in Python and C, I am developing this project to provide a seamless and efficient solution for sensor connectivity.
+My Expertise
+Programming Languages: Python, C, and Assembly (x86)
+Technologies: Linux, Wireshark, Nmap, Valgrind
+Focus Areas: Vulnerability analysis, penetration testing, wireless security, and system optimization
+Professional Highlights
+Designed and tested secure Android operating systems to enhance privacy and data protection.
+Automated software testing processes to ensure high reliability and security.
+Conducted network analysis and security testing to identify and mitigate vulnerabilities.
+Experienced in developing and debugging code for embedded systems and secure applications.
 
-Key Features
-Flask-based GUI: Aegis utilizes Flask, a powerful web framework, to deliver an intuitive and user-friendly graphical interface. I am hoping to ensure a smooth and enjoyable experience for users.
 
-Prebuilt Functionality: Users will have the flexibility to choose from a variety of prebuilt functions, allowing them to customize and optimize sensor operations to suit their specific needs.
-
-SDR and Commercial Hardware Integration: Aegis harnesses the power of Software-Defined Radios (SDRs) and readily available commercial off-the-shelf hardware to capture RF data. This data is then securely transmitted back to the server for further analysis and processing.
-
-GPS Data Integration: By seamlessly incorporating GPS data, Aegis enriches the sensor information with accurate location tracking, enhancing the overall functionality and value of the system.
-
-Next Steps
-As I continue to refine the Aegis project, my focus is on expanding its capabilities and enhancing user experience. One of the exciting upcoming features is the development of a server-side graphical user interface (GUI) that will visually represent each sensor on a map, providing users with a comprehensive overview of their network.
 
 
 <!--
